@@ -2,12 +2,11 @@
 
 
 ## Description
-it is terminal running app that is run by
-| Behavior | input | output |
-| Display codes | in terminal: $./run | Welcome to Password Locker.Use these codes to navigate: \n ca-Create an Account \n li-Log In \n ex-Exit |
-| create account | Enter: ca | Insert first name, last name and password |
-| log in | Enter: li | enter site name, user name and password |
-| exit app | Enter: ex | exit current page |
+in the teminal:
+| to create account | ca | insert names and password |
+| to log in account | li | insert site and details   |
+| to exit account   | ex | exists the page           |
+
 
 ## Technologies Used
  I have used Python as the language.(credentials.py, user_credentials_test.py and others. )
