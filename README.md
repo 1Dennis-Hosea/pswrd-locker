@@ -3,9 +3,9 @@
 
 ## Description
 in the teminal:
-| to create account | ca | insert names and password |
-| to log in account | li | insert site and details   |
-| to exit account   | ex | exists the page           |
+ to create account (ca) insert names and password 
+ to log in account (li) insert site and details   
+to exit account    (ex) exists the page          
 
 
 ## Technologies Used
